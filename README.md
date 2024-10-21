@@ -1,22 +1,23 @@
 # YouTube Clone
 
-![YouTube Clone](./src/assets/images/watchflix_logo.png) <!-- Replace with your project's image URL -->
+![WatchFlix](./src/assets/images/watchflix_logo.png) <!-- Replace with your project's image URL -->
 
 ## 📜 Overview
 
-Welcome to **YouTube Clone**, a web application that mimics the core functionalities of YouTube. This project is designed to help users explore, watch, and share videos seamlessly. Built with a modern tech stack, this clone provides an intuitive interface and engaging user experience.
+Welcome to **WatchFlix**, a web application that mimics the core functionalities of YouTube. This project is designed to help users explore, watch, and share videos seamlessly. Built with a modern tech stack, this clone provides an intuitive interface and engaging user experience.
 
 ## 🚀 Features
 
 - **Video Playback**: Watch videos with responsive controls.
 - **Search Functionality**: Easily find videos by keywords or related video IDs.
-<!-- - **User Profiles**: Create and manage your profile with personalized settings. -->
 - **Related Videos**: Discover new content with recommendations based on what you watch.
 - **Responsive Design**: Enjoy a seamless experience across devices, from desktops to mobile phones.
 
+<!-- - **User Profiles**: Create and manage your profile with personalized settings. -->
+
 ## Live Demonstration
 
-The YouTube clone demo can be [viewed online here](https://shopinggo.vercel.app/)
+The WatchFlix demo can be [viewed online here](https://watchflix-ten.vercel.app/)
 
 Here are screenshots that show the you tube clone :
 
@@ -35,7 +36,7 @@ This project is built using:
 
 ## 📦 Installation
 
-To get started with the YouTube Clone, follow these simple steps:
+To get started with the WatchFlix, follow these simple steps:
 
 1. **Clone the Repository**:
 
