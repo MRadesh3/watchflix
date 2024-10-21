@@ -1,6 +1,6 @@
 # YouTube Clone
 
-![YouTube Clone](https://example.com/your-project-image.png) <!-- Replace with your project's image URL -->
+![YouTube Clone](./src/assets/images/watchflix_logo.png) <!-- Replace with your project's image URL -->
 
 ## 📜 Overview
 
@@ -10,18 +10,28 @@ Welcome to **YouTube Clone**, a web application that mimics the core functionali
 
 - **Video Playback**: Watch videos with responsive controls.
 - **Search Functionality**: Easily find videos by keywords or related video IDs.
-- **User Profiles**: Create and manage your profile with personalized settings.
+<!-- - **User Profiles**: Create and manage your profile with personalized settings. -->
 - **Related Videos**: Discover new content with recommendations based on what you watch.
 - **Responsive Design**: Enjoy a seamless experience across devices, from desktops to mobile phones.
+
+## Live Demonstration
+
+The YouTube clone demo can be [viewed online here](https://shopinggo.vercel.app/)
+
+Here are screenshots that show the you tube clone :
+
+#### Home Page
+
+![Home Page](./src//assets/images/home.png?raw=true "Optional Title")
 
 ## ⚙️ Tech Stack
 
 This project is built using:
 
 - **Frontend**: React, Material-UI
-- **Backend**: (Optional: specify your backend if applicable)
+- **Backend**: Node Js
 - **APIs**: YouTube Data API, Axios for API calls
-- **Deployment**: (Specify where you plan to host it, e.g., Netlify, Vercel, etc.)
+- **Deployment**: Vercel
 
 ## 📦 Installation
 
@@ -30,7 +40,7 @@ To get started with the YouTube Clone, follow these simple steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/youtube_clone.git
+   git clone https://github.com/MRadesh3/youtube_clone.git
    cd youtube_clone
    ```
 
@@ -83,13 +93,18 @@ Contributions are welcome! If you'd like to contribute to the YouTube Clone, ple
    ```
 5. Create a pull request.
 
-## 🛠️ License
+### 🔗 Get In Touch
 
-This project is licensed under the [MIT License](LICENSE).
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
-## 📞 Contact
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesh-salsundar-a73b4121a/)
 
-For inquiries or suggestions, feel free to reach out:
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeshsalsundar1713@gmail.com)
 
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8080120538?text=Welcome%20😎)
+
+Let's build something amazing together !
+
+## Feedback
+
+If you have any feedback, please reach out to me at adeshsalsundar1713@gmail.com
